@@ -1,0 +1,21 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.template {
+  background-color: whitesmoke;
+  height: 500px;
+  margin: 50px 0;
+}
+.item {
+  background-color: red;
+  height: 50px;
+  width: 50px;
+}
+.margin {
+  margin: 10px;
+}

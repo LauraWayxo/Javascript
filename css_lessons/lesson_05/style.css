@@ -1,0 +1,25 @@
+main {
+  width: 100vw;
+  height: 100vh;
+  overflow: auto;
+}
+
+.box {
+    background-color: whitesmoke;
+    height: 320px;
+    width: 320px;
+}
+
+.padding {
+    padding: 5px;
+    margin: 30px;
+}
+
+.margin {
+    margin: 5px;
+}
+
+.border {
+    border: black 2px;
+}
+

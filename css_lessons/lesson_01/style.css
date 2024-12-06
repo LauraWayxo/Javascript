@@ -1,0 +1,15 @@
+body{
+    background-color: violet;
+}
+h1{
+    color: red
+}
+.color-pink {
+    color: pink;
+}
+.color-pink, .paragraph{
+    font-size: 30px;
+}
+#h2{
+    background-color: red
+}

@@ -1,0 +1,35 @@
+#main-content {
+  width: 100vw;
+  height: 100vh;
+  color: white;
+  /* Add Background Color Below this comment */
+  background-color: #fd5c63;
+  /* Add Background Color Above this comment */
+}
+
+.text-yellow {
+  /* Add color below this comment */
+  color: rgb(255,255,0);
+  /* Add color above this comment */
+  font-size: 24px;
+}
+.text-roboto {
+  /* Add Font Family below this comment */
+  font-family: "Anton SC", sans-serif;
+  /* Add Font Family above this comment */
+  font-size: 24px;
+}
+.text-lg {
+  /* Add a Font Size below this comment */
+  font-size: 32px;
+  /* Add a Font Size above this comment */
+}
+
+h1 {
+  /* Add color below this comment */
+  color: blue;
+  /* Add color above this comment */
+  font-size: 32px;
+  font-family: "Anton SC", sans-serif;
+  
+}
