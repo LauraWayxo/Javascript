@@ -1,0 +1,22 @@
+console.log("Laura")
+console.log(21)
+console.log("Eat Pray Love")
+
+let age = 0;
+let name_one = "";
+console.log("My age is: ", 21);
+console.log("My name is: ", "Laura");
+
+let x = 0;
+x = 0;
+console.log("The value of x is:", x);
+x = 20;
+console.log("The value of x is:", x);
+
+const PI = 3.14;
+console.log("The value of PI is: ", PI);
+
+let myNum = 15;
+let myString = "Hello, World!";
+console.log(typeof myNum);
+console.log(typeof myString);
