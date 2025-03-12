@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#main-content {
+  height: 100vh;
+  width: 100vw;
+  background-color: #FF5A5F;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  font-size: 3rem;
+  color: white;
+  text-align: center;
+}
+p {
+  font-size: 1.5rem;
+  color: white;
+  text-align: center;
+}
